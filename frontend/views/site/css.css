@@ -1,0 +1,37 @@
+body{
+    background-color: darkgray;
+}
+#page1{
+    background:url("bg.jpg");
+    background-size: 100%;
+}
+#introduce{
+    color: aquamarine;
+    float: left;
+}
+#image{
+    float: right;
+}
+/* #blogroll{
+    不允许两边有浮动对象 于是换行了
+    clear: both;
+} */
+
+#table{
+    border: 1px solid aliceblue;
+}
+
+#image_show{
+    color: khaki;
+    font-size: 10px;
+    clear: both;    
+    border: 1px yellowgreen;
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center; 
+}
+
+/* #page2{    
+    background: url("bg3.jpg");
+    background-size: cover;
+} */
